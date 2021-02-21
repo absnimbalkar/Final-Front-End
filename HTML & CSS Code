@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<style>
+
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  word-spacing: 20px; 
+   font-size: 40px;
+}
+
+p {
+
+	color: white;
+	word-spacing: 05px; 
+	 font-size: 30px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 18px;
+  width:300px;
+  background-color: #dddddd;
+  font-size: 30px;
+  color:black;
+}
+
+.center {
+  
+  text-align:center;
+}
+
+
+</style>
+
+<title> Renting Rooms </title>
+
+<body>
+	
+<h1> Welcome to Renting Rooms Website !</h1><hr>
+
+
+
+<h2>Navigation Menu</h2>
+
+
+<ul>
+  <li><a href="#home">Address</a></li>
+  <li><a href="#news">Photos</a></li>
+  <li><a href="#contact">ContactUs</a></li>
+  <li><a href="#about">Payment</a></li>
+</ul>
+
+
+<p>	Renting Rooms is a privately owned business.
+This Buisness is intiated with providing rooms for students who are from outside and looking for a Hostel.</p>
+
+<div class="center">
+<h2>HTML Image</h2>
+<img src="image/andy-art-zwZpdhoTbU0-unsplash.jpg" height="450" width="900" >
+</div>
+
+
+<br>
+<br>
+
+<div class="center">
+<p>Find us on</p><hr>
+</div>
+
+<div class="center">
+<img src="xyz/PngItem_4618525.png" width="40" >
+<img src="abc/facebook-icon-transparent-background-1.png" width="40" >
+</div>
+
+
+</body>
+</html>
+
